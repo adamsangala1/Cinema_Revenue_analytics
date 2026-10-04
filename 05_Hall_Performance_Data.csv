@@ -1,0 +1,16 @@
+"mesto","sala_id","typ_saly","cislo_saly","kapacita_saly","pocet_premietani","pocet_predanych_listkov","trzba"
+"Bratislava",1,"IMAX",1,350,3,89,1729.70
+"Bratislava",2,"VIP Lounge",2,40,2,33,323.78
+"Trnava",8,"Standard 2D",1,140,1,31,283.67
+"Bratislava",3,"UltraX",3,200,2,30,277.20
+"Košice",18,"UltraX",2,210,1,27,274.54
+"Bratislava",7,"UltraX",3,180,1,31,264.47
+"Bratislava",6,"Standard 3D",2,110,1,26,257.21
+"Bratislava",5,"Standard 2D",1,150,1,26,246.34
+"Košice",17,"IMAX",1,380,1,28,245.35
+"Banská Bystrica",15,"Standard 2D",2,130,1,26,243.46
+"Banská Bystrica",14,"UltraX",1,220,1,24,242.76
+"Žilina",11,"IMAX",1,300,1,24,225.97
+"Žilina",12,"Standard 2D",2,120,1,26,210.87
+"Bratislava",4,"Standard 2D",4,120,2,20,182.37
+"Banská Bystrica",16,"VIP Lounge",3,45,1,15,139.79
